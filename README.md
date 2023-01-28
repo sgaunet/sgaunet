@@ -47,6 +47,8 @@ I'm Sylvain, an ops (software operation manager) in France who is developping mo
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sgaunet.sgaunet)
 
+[More stats here](https://ossinsight.io/analyze/sgaunet)
+
 <!--
 **sgaunet/sgaunet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
