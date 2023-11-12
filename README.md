@@ -14,11 +14,11 @@ I'm Sylvain, an ops (software operation manager) in France who is developping mo
 
 ## 🔭 I’m currently working on 
 
-* Golang API/Rest
-* Golang CLI
-* kubernetes
-* AWS
-* zabbix
+* Golang API/Rest, CLI, sometimes web
+* Docker, kubernetes, Helm
+* Bash if it's short
+* AWS (EKS,EC2,RDS...)
+* Zabbix
 
 ## ⚡ Technologies
 
@@ -34,11 +34,22 @@ I'm Sylvain, an ops (software operation manager) in France who is developping mo
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## And sometimes
 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)
+
+## Work on
+
+* Linux PC (Ubuntu)
+* Or MAC 
+
+**No windows anymore please.**
 
 ## Stats
 
