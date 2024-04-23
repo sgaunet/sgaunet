@@ -41,7 +41,6 @@ I'm Sylvain, an ops (software operation manager) in France who is developping mo
 
 ## And sometimes
 
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)
 
 ## Work on
